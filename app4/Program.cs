@@ -48,3 +48,4 @@ for (int g = 0; g < a; g++)
     }
     Console.WriteLine();
 }
+Console.WriteLine("pull");
